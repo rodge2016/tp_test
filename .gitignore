@@ -1,0 +1,5 @@
+/*
+!.gitignore
+!application/index/controller
+!thinkphp/library/think/db
+!thinkphp/library/think/config/
